@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 # title: Cadre Demo
-email: smlee.981@gmail.com  
-description: A responsive, modern, Jekyll theme for bloggers with Bootstrap styling and KaTex support.
+email: moginteger@gmail.com  
+description: A short math blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -50,5 +50,9 @@ plugins:
 #   - vendor/ruby/
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 remote_theme: slee981/jekyll-theme-cadre
