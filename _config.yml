@@ -48,3 +48,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: slee981/jekyll-theme-cadre
