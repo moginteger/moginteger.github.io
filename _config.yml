@@ -20,7 +20,7 @@
 
 # title: Cadre Demo
 email: moginteger@gmail.com  
-description: A short math blog.
+description: A short blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
